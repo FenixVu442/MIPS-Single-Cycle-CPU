@@ -1,0 +1,826 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vadder
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1710962515
+!i10b 1
+!s100 2@IO0g3D:0RKPd`IAn?bQ1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Io0okf_kU^aNn`?kIed72?1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single
+Z5 w1583267902
+Z6 8C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipsparts.sv
+Z7 FC:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipsparts.sv
+!i122 68
+L0 20 5
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1710962515.000000
+Z10 !s107 C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipsparts.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipsparts.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+vadderModule
+R0
+Z14 !s110 1710962514
+!i10b 1
+!s100 :VB6O^eROKfdSTg=HgMDN1
+R2
+I9@Y@IIm]bU@8KQh1M7@Pd0
+R3
+S1
+R4
+Z15 w1710878486
+Z16 8C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/adder.sv
+Z17 FC:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/adder.sv
+!i122 64
+L0 149 15
+R8
+r1
+!s85 0
+31
+Z18 !s108 1710962514.000000
+Z19 !s107 C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/adder.sv|
+Z20 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/adder.sv|
+!i113 1
+R12
+R13
+nadder@module
+vALU
+R0
+R1
+!i10b 1
+!s100 STl`mQe8Z?[^@BF5>ZR0<2
+R2
+InT=^=UjBFSOoE1n19MiH>1
+R3
+S1
+R4
+Z21 w1710878654
+Z22 8C:\Users\victo\OneDrive\Documents\Project\SystemVerilog\MIPS_Single\ALU_top.sv
+Z23 FC:\Users\victo\OneDrive\Documents\Project\SystemVerilog\MIPS_Single\ALU_top.sv
+!i122 65
+L0 41 34
+R8
+r1
+!s85 0
+31
+R18
+Z24 !s107 C:\Users\victo\OneDrive\Documents\Project\SystemVerilog\MIPS_Single\ALU_top.sv|
+Z25 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\victo\OneDrive\Documents\Project\SystemVerilog\MIPS_Single\ALU_top.sv|
+!i113 1
+R12
+R13
+n@a@l@u
+valudec
+R0
+R1
+!i10b 1
+!s100 ^LWi[@YNKBReNOie3EmgX0
+R2
+I6bI4mMcbfFJo]4[0YkdoJ1
+R3
+S1
+R4
+Z26 w1710961205
+Z27 8C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mips.sv
+Z28 FC:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mips.sv
+!i122 66
+L0 102 37
+R8
+r1
+!s85 0
+31
+R9
+Z29 !s107 C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mips.sv|
+Z30 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mips.sv|
+!i113 1
+R12
+R13
+vAND_module
+R0
+R1
+!i10b 1
+!s100 0l@96HElIGIK7YIiR_le82
+R2
+IIaF<N;i1cf`1beBS`[=8B2
+R3
+S1
+R4
+R21
+R22
+R23
+!i122 65
+L0 25 7
+R8
+r1
+!s85 0
+31
+R18
+R24
+R25
+!i113 1
+R12
+R13
+n@a@n@d_module
+vCarryBit
+R0
+R14
+!i10b 1
+!s100 07IVa:=LgcASiBK65SG[11
+R2
+IkVAUX;FK?oo;C_h:HF_?g3
+R3
+S1
+R4
+R15
+R16
+R17
+!i122 64
+L0 18 7
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R12
+R13
+n@carry@bit
+vcontroller
+R0
+R1
+!i10b 1
+!s100 ^3SgSJ]z:4Ub;V[X1USSR2
+R2
+I1aMLgXE0V<hYQ8X`PD<=T3
+R3
+S1
+R4
+R26
+R27
+R28
+!i122 66
+L0 31 28
+R8
+r1
+!s85 0
+31
+R9
+R29
+R30
+!i113 1
+R12
+R13
+vdatapath
+R0
+R1
+!i10b 1
+!s100 7<[LegPeQ5lL_n>=RWBVL2
+R2
+IIYS:V@XPkkT7R;Za:NJZI1
+R3
+S1
+R4
+R26
+R27
+R28
+!i122 66
+L0 140 44
+R8
+r1
+!s85 0
+31
+R9
+R29
+R30
+!i113 1
+R12
+R13
+vdmem
+R0
+R1
+!i10b 1
+!s100 B=FhHY0a]OzkOa`FYE=GI0
+R2
+I8=nW<m4>jH_S^nQ[:9d]A0
+R3
+S1
+R4
+Z31 w1710962496
+Z32 8C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipsmem.sv
+Z33 FC:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipsmem.sv
+!i122 67
+L0 3 12
+R8
+r1
+!s85 0
+31
+R9
+Z34 !s107 C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipsmem.sv|
+Z35 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipsmem.sv|
+!i113 1
+R12
+R13
+vEncoderControl
+R0
+R1
+!i10b 1
+!s100 `1PibO>od>]IhfbedgPk83
+R2
+IMKG99zWaZHACM?nmehezV2
+R3
+S1
+R4
+Z36 w1708103470
+Z37 8C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/patMatch.sv
+Z38 FC:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/patMatch.sv
+!i122 71
+L0 20 15
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/patMatch.sv|
+Z39 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/patMatch.sv|
+!i113 1
+R12
+R13
+n@encoder@control
+vflopenr
+R0
+R1
+!i10b 1
+!s100 0jCO;bWWg6DUX_XGlK]a80
+R2
+I_?f8R0DQ[<:0MlCmo^cZm1
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 68
+L0 48 9
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vflopr
+R0
+R1
+!i10b 1
+!s100 DKaXzT4^C``PW=Tj9c0lR3
+R2
+IIok12V_FdJNXh8:iIFg]Y3
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 68
+L0 38 9
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vGPbit
+R0
+R14
+!i10b 1
+!s100 DmP8:8bV5WB8OQ9k<8l`72
+R2
+IjRk3<E6KkWBOLBZdgnbOZ0
+R3
+S1
+R4
+R15
+R16
+R17
+!i122 64
+L0 1 8
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R12
+R13
+n@g@pbit
+vGPblk
+R0
+R14
+!i10b 1
+!s100 Kh1TcEKGP;WhG`ZZS`iI`1
+R2
+I2YaFN2I2mJ3BRc9?fjlLG3
+R3
+S1
+R4
+R15
+R16
+R17
+!i122 64
+L0 10 7
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R12
+R13
+n@g@pblk
+vimem
+R0
+R1
+!i10b 1
+!s100 PdJ8XF^OJ0bGXWiF9N=zf2
+R2
+I:d3kR[5j@iIGc7XV?[`A62
+R3
+S1
+R4
+R31
+R32
+R33
+!i122 67
+L0 16 12
+R8
+r1
+!s85 0
+31
+R9
+R34
+R35
+!i113 1
+R12
+R13
+vmaindec
+R0
+R1
+!i10b 1
+!s100 zcmRKgXi[jG]YkP9Z_cAH1
+R2
+I^de8;kNG;[h?>]]2lGUV:3
+R3
+S1
+R4
+R26
+R27
+R28
+!i122 66
+L0 60 41
+R8
+r1
+!s85 0
+31
+R9
+R29
+R30
+!i113 1
+R12
+R13
+vMatchUnit
+R0
+R1
+!i10b 1
+!s100 d@GSg3_[<B3dT>S3nQ7lK2
+R2
+IJFh:bPA`F0=aVE4^UGS>[1
+R3
+S1
+R4
+R36
+R37
+R38
+!i122 71
+L0 1 17
+R8
+r1
+!s85 0
+31
+R9
+Z40 !s107 C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/patMatch.sv|
+R39
+!i113 1
+R12
+R13
+n@match@unit
+vmips
+R0
+R1
+!i10b 1
+!s100 bm1CVP2?i5:mS`J?TGWj?0
+R2
+I[RQ0>5e[N:UXR`c@D06M93
+R3
+S1
+R4
+R26
+R27
+R28
+!i122 66
+L0 5 25
+R8
+r1
+!s85 0
+31
+R9
+R29
+R30
+!i113 1
+R12
+R13
+vmux2
+R0
+R1
+!i10b 1
+!s100 C=_lXoLEZl1aiFjTITgKe2
+R2
+IJVRTDU=DmL6Ta758kKz?k3
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 68
+L0 58 7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vMux4_1
+R0
+R1
+!i10b 1
+!s100 :f4Vc=TSSlV2=cf@>gc^T2
+R2
+I=OFkG_dQ:=aSa>j2^9aNm0
+R3
+S1
+R4
+R21
+R22
+R23
+!i122 65
+L0 1 15
+R8
+r1
+!s85 0
+31
+R18
+R24
+R25
+!i113 1
+R12
+R13
+n@mux4_1
+vNOR_32_1
+R0
+R1
+!i10b 1
+!s100 6WFz`>mUH6MfadoV:<PXQ2
+R2
+Ij8@KGWVEIZjQL`:hUIVN20
+R3
+S1
+R4
+R21
+R22
+R23
+!i122 65
+L0 33 6
+R8
+r1
+!s85 0
+31
+R18
+R24
+R25
+!i113 1
+R12
+R13
+n@n@o@r_32_1
+vOR_module
+R0
+R1
+!i10b 1
+!s100 GmnYk[d]cE^oJDjnSgaa>1
+R2
+I0BD?kLng4Qni[>DRCeX;E1
+R3
+S1
+R4
+R21
+R22
+R23
+!i122 65
+L0 17 7
+R8
+r1
+!s85 0
+31
+R18
+R24
+R25
+!i113 1
+R12
+R13
+n@o@r_module
+vPatMatch
+R0
+R1
+!i10b 1
+!s100 5L<]SjfR7>Jd?TCg=ZJ2L0
+R2
+IiAKJ[UQdm]R:2X[G=Kjme3
+R3
+S1
+R4
+R36
+R37
+R38
+!i122 71
+L0 37 27
+R8
+r1
+!s85 0
+31
+R9
+R40
+R39
+!i113 1
+R12
+R13
+n@pat@match
+vPPA16Bit
+R0
+R14
+!i10b 1
+!s100 H:AI@X:Sgm=LeMjWKWa;<2
+R2
+IccW^B>05zCOW65oCdUBfJ2
+R3
+S1
+R4
+R15
+R16
+R17
+!i122 64
+L0 34 114
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R12
+R13
+n@p@p@a16@bit
+vregfile
+R0
+R1
+!i10b 1
+!s100 HG9U_@1a4@7c;@YmlI<2T3
+R2
+IOPdmkaIXk:PjUN8FB`QHV2
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 68
+L0 3 16
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vRFSwap
+R0
+R14
+!i10b 1
+!s100 jzXZ_Td;01m?C;H?AEBJ;2
+R2
+I:`l2iiM3N3;Ya_8ANBPa62
+R3
+S1
+R4
+w1710505378
+8C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/RFSwap.sv
+FC:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/RFSwap.sv
+!i122 63
+L0 1 26
+R8
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/RFSwap.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/RFSwap.sv|
+!i113 1
+R12
+R13
+n@r@f@swap
+vsignext
+R0
+R1
+!i10b 1
+!s100 [=S;U10;1SBa30F<lZ0R00
+R2
+IUmK2A<?>jXR=La7`le9el1
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 68
+L0 32 5
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vsl2
+R0
+R1
+!i10b 1
+!s100 4mfd1mSH]bc;A^Fj5OTzY2
+R2
+I6f=XNC0Q9@Imeli?<7bz:2
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 68
+L0 26 5
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vSUMbit
+R0
+R14
+!i10b 1
+!s100 km7Lzh[jnSTWh<;=1TE<X0
+R2
+IzaE6ce:<TkQ1[<MfEB^<l2
+R3
+S1
+R4
+R15
+R16
+R17
+!i122 64
+L0 26 7
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R12
+R13
+n@s@u@mbit
+vtestbench
+R0
+R1
+!i10b 1
+!s100 =;fW6RH0U>i9VL?YflXnT1
+R2
+I9<L6WXCl2LVT0ZY139AY:0
+R3
+S1
+R4
+w1710962472
+8C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipstest.sv
+FC:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipstest.sv
+!i122 69
+L0 3 46
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipstest.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipstest.sv|
+!i113 1
+R12
+R13
+vtop
+R0
+R1
+!i10b 1
+!s100 3R:UWWBL4jUbB]nh?XoaU0
+R2
+IUAAJWWkkMNo@`milmhhN61
+R3
+S1
+R4
+w1583267014
+8C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipstop.sv
+FC:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipstop.sv
+!i122 70
+L0 5 15
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipstop.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipstop.sv|
+!i113 1
+R12
+R13
+vtop_module
+R0
+R1
+!i10b 1
+!s100 G983fgQ8ozfQDBKlW>DG<2
+R2
+IoGX:T[KJ1nMKLIHl5Agn>3
+R3
+S1
+R4
+R36
+R37
+R38
+!i122 71
+L0 65 6
+R8
+r1
+!s85 0
+31
+R9
+R40
+R39
+!i113 1
+R12
+R13

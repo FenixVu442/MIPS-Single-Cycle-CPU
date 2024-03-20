@@ -1,0 +1,82 @@
+C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipstest.sv {1 {vlog -work work -sv -stats=none C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipstest.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mips.sv {1 {vlog -work work -sv -stats=none C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mips.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mips
+-- Compiling module controller
+-- Compiling module maindec
+-- Compiling module aludec
+-- Compiling module datapath
+
+Top level modules:
+	mips
+
+} {} {}} C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/patMatch.sv {1 {vlog -work work -sv -stats=none C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/patMatch.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MatchUnit
+-- Compiling module EncoderControl
+-- Compiling module PatMatch
+-- Compiling module top_module
+
+Top level modules:
+	top_module
+
+} {} {}} C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipsparts.sv {1 {vlog -work work -sv -stats=none C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipsparts.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module regfile
+-- Compiling module adder
+-- Compiling module sl2
+-- Compiling module signext
+-- Compiling module flopr
+-- Compiling module flopenr
+-- Compiling module mux2
+
+Top level modules:
+	regfile
+	adder
+	sl2
+	signext
+	flopr
+	flopenr
+	mux2
+
+} {} {}} C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/RFSwap.sv {1 {vlog -work work -sv -stats=none C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/RFSwap.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RFSwap
+
+Top level modules:
+	RFSwap
+
+} {} {}} C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipsmem.sv {1 {vlog -work work -sv -stats=none C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipsmem.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dmem
+-- Compiling module imem
+
+Top level modules:
+	dmem
+	imem
+
+} {} {}} C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipstop.sv {1 {vlog -work work -sv -stats=none C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/mipstop.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/victo/OneDrive/Documents/Project/SystemVerilog/MIPS_Single/ALU_top.sv {1 {vlog -work work -sv -stats=none {C:\Users\victo\OneDrive\Documents\Project\SystemVerilog\MIPS_Single\ALU_top.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux4_1
+-- Compiling module OR_module
+-- Compiling module AND_module
+-- Compiling module NOR_32_1
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}
